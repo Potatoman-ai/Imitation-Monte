@@ -1,15 +1,12 @@
 # Imitation-Monte
 <!DOCTYPE html>
 <html lang="en">
-  <style>
+<style>
   div {
-    background-image:<img width="160" height="160" alt="tic-tac-toe" src="https://github.com/user-attachments/assets/2df84ffd-fa0b-4eb3-9f4e-7012693bb32f" />, <img width="455" height="482" alt="dinosaur" src="https://github.com/user-attachments/assets/a45a218d-a63a-44a2-ad43-7bfc961438d4" />;
-    background-repeat: no-repeat;
-    width: 100%;
-    height: 200px;
-    background-size: 50px auto, auto 200px;
-    background-position: 0px 0px, 50px 5px;
-    background-origin: content-box;
+    height: 150px;
+    background-image: radial-gradient(ellipse closest-corner at 20% 65%, blue, navy, black);
+    background-color: navy;
   }
 </style>
+<div img="![penguins](https://github.com/user-attachments/assets/f4c286b0-7b21-4196-9e07-ded49b600c30)"></div>
 </html>
