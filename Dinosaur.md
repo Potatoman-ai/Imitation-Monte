@@ -1,1 +1,2 @@
-<img width="455" height="482" alt="dinosaur" src="https://github.com/user-attachments/assets/b75b2d06-f2b9-42b1-9e4b-1a3c28186820" />
+
+<img width="455" height="482" alt="dinosaur" src="https://github.com/user-attachments/assets/9ea88b85-86d1-4ecb-9e04-70c4d79ba562" />
