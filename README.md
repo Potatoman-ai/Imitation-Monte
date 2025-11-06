@@ -1,12 +1,8 @@
 # Imitation-Monte
 <!DOCTYPE html>
 <html lang="en">
-<style>
-  div {
-    height: 150px;
-    background-image: radial-gradient(ellipse closest-corner at 20% 65%, blue, navy, black);
-    background-color: navy;
-  }
-</style>
-<div img="![penguins](https://github.com/user-attachments/assets/f4c286b0-7b21-4196-9e07-ded49b600c30)"></div>
+border: 27px solid #000;
+border-image: url(<img width="160" height="160" alt="tic-tac-toe" src="https://github.com/user-attachments/assets/9d672865-8211-4202-a71b-bda834ea012f" />) 27 repeat;
 </html>
+
+
