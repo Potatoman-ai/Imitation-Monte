@@ -1,1 +1,1 @@
-![theater_stage](https://github.com/user-attachments/assets/661e90b0-1446-4277-9484-caa2b53d61c5)
+![theater_stage](https://github.com/user-attachments/assets/61e3a673-2846-46ea-8c9a-db034932edaf)
