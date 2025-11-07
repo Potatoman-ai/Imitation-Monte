@@ -14,7 +14,7 @@
   <style>
   #segull {
     height: 396px;
-    background-image: linear-gradient(-45deg, white, light blue, blue);
+    background-image: linear-gradient(-90deg, white, light blue, blue);
     background-color: white;
   }
 </style>
