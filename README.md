@@ -1,8 +1,12 @@
 # Imitation-Monte
 <!DOCTYPE html>
 <html lang="en">
-border: 27px solid #000;
-border-image: url(<img width="160" height="160" alt="tic-tac-toe" src="https://github.com/user-attachments/assets/9d672865-8211-4202-a71b-bda834ea012f" />) 27 repeat;
+img {
+  -webkit-filter: hue-rotate(90deg);
+  filter: hue-rotate(90deg);
+}
+  <img width="455" height="482" alt="dinosaur" src="https://github.com/user-attachments/assets/29e229d1-f416-4624-a940-7da1eafd6edb" />
+
 </html>
 
 
