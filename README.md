@@ -15,7 +15,7 @@
   #segull {
     height: 396px;
     background-image: linear-gradient(-45deg, white, light blue, blue);
-    background-color: navy;
+    background-color: blue;
   }
 </style>
   <img id="segull" width="560" height="396" alt="seagull" src="https://github.com/user-attachments/assets/dbeb73a5-1598-4f7c-b814-d03b91b41ae4"/>
