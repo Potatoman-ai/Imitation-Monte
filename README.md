@@ -14,7 +14,7 @@
   <style>
   #segull {
     height: 396px;
-    background-image: linear-gradient(-135deg, white, lightblue, blue);
+    background-image: linear-gradient(-45deg, white, lightblue, blue);
     background-color: navy;
   }
 </style>
@@ -23,32 +23,11 @@
   <section>
     <style>
   div {
-    border-radius:10px 30px 50px 10px / 20px 5px 20px 60px;
+    border-radius:150px 150px 150px 150px / 150px 150px 150px 150px;
     background-color: cornflowerblue; 
-    height: 150px;
+    height: 200px;
   }
 </style>
-<div><img src="penguin.md" width="200px" height="200px"/></div>
+<div><img src="penguin.md" width="200px" height="200px" alt="peguin"/></div>
   </section>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
