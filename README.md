@@ -23,7 +23,7 @@
   <section>
     <style>
   div {
-    border-radius:150px 150px 150px 150px / 150px 150px 150px 150px;
+    border-radius:50px 50px 50px 50px / 50px 50px 50px 50px;
     background-color: white; 
     height: 440px;
   }
