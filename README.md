@@ -28,7 +28,7 @@
     height: 150px;
   }
 </style>
-<img id="Pengz" src="penguin.md" width="200px" height="200px"/>
+<img id="Pengz" src="penguin.jpg" width="200px" height="200px"/>
   </section>
 </html>
 
