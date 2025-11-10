@@ -22,13 +22,13 @@
   </section>
   <section>
     <style>
-  #Pengz {
+  div {
     border-radius:10px 30px 50px 10px / 20px 5px 20px 60px;
     background-color: cornflowerblue; 
     height: 150px;
   }
 </style>
-<img id="Pengz" src="penguin.jpg" width="200px" height="200px"/>
+<div><img src="penguin.md" width="200px" height="200px"/></div>
   </section>
 </html>
 
