@@ -28,6 +28,6 @@
     height: 200px;
   }
 </style>
-<img id="peguin" width="200" height="200" alt="peguin" src="https://github.com/user-attachments/assets/3b3d273d-c681-488c-9f16-e044e81103c7"/>
+<img id="peguin" width="200" height="200" alt="peguin" src="https://github.com/user-attachments/assets/377609e6-7001-4449-a59c-cdb49de18751"/>
   </section>
 </html>
