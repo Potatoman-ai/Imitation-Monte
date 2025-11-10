@@ -21,7 +21,14 @@
   <img id="segull" width="560" height="396" alt="seagull" src="https://github.com/user-attachments/assets/dbeb73a5-1598-4f7c-b814-d03b91b41ae4"/>
   </section>
   <section>
-    
+    <style>
+  img {
+    border-radius:10px 30px 50px 10px / 20px 5px 20px 60px;
+    background-color: cornflowerblue; 
+    height: 150px;
+  }
+</style>
+<img src="penguin.md"/>
   </section>
 </html>
  
