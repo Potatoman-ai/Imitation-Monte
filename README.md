@@ -24,6 +24,7 @@
     <style>
   div {
     border-radius:50px 50px 50px 50px / 50px 50px 50px 50px;
+    background-color: pink;
     height: 440px;
   }
 </style>
