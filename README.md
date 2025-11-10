@@ -22,12 +22,12 @@
   </section>
   <section>
     <style>
-  div {
+  #penguin {
     border-radius:150px 150px 150px 150px / 150px 150px 150px 150px;
     background-color: cornflowerblue; 
     height: 200px;
   }
 </style>
-<div><img src="penguin.md" width="200px" height="200px" alt="peguin"/></div>
+<img id="peguin" width="200" height="200" alt="peguin" src="https://github.com/user-attachments/assets/3b3d273d-c681-488c-9f16-e044e81103c7"/>
   </section>
 </html>
