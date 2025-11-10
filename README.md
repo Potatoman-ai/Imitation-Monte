@@ -24,7 +24,6 @@
     <style>
   div {
     border-radius:50px 50px 50px 50px / 50px 50px 50px 50px;
-    background-color: white; 
     height: 440px;
   }
 </style>
