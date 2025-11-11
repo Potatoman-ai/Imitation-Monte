@@ -22,7 +22,7 @@
   </section>
   <section>
     <style>
-  div {
+  #penguin {
     border-radius:50px 50px 50px 50px / 50px 50px 50px 50px;
     background-color: pink;
     height: 440px;
