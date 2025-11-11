@@ -34,4 +34,16 @@
 </style>
 <img id="penguin" width="560" height="400" alt="peguin" src="https://github.com/user-attachments/assets/377609e6-7001-4449-a59c-cdb49de18751"/>
   </section>
+  <section>
+ <style>
+  #butterfly {
+    border-radius: 50px 0px 0px 50px;
+    height: 400px;
+     -webkit-filter: hue-rotate(90deg);
+  filter: hue-rotate(90deg);
+    
+  }
+</style>
+<img id="butterfly" width="400px" height="300px" alt="butterfly" scr="https://github.com/user-attachments/assets/4791bf55-3739-4ddd-bfed-041226a68e6b"/>
+  </section>
 </html>
