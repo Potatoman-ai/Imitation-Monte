@@ -25,7 +25,7 @@
   #penguin {
     border-radius:50px 50px 50px 50px;
     background-color: pink;
-    height: 560px;
+    height: 410px;
    -webkit-filter: sepia(100%);
   filter: sepia(100%);
   }
