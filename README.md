@@ -32,7 +32,7 @@
   filter: sepia(100%);
   }
 </style>
-<img id="penguin" width="560" height="400" alt="peguin" src="https://github.com/user-attachments/assets/377609e6-7001-4449-a59c-cdb49de18751"/>
+<img id="penguin" width="560" height="400" alt="peguin" src="https://github.com/user-attachments/assets/c0f5c3c6-37fd-41c1-ac48-8f751131c68f"/>
   </section>
   <section>
  <style>
@@ -41,7 +41,6 @@
     height: 400px;
      -webkit-filter: hue-rotate(90deg);
   filter: hue-rotate(90deg);
-    
   }
 </style>
 <img id="butterfly" width="400px" height="300px" alt="butterfly" scr="https://github.com/user-attachments/assets/4791bf55-3739-4ddd-bfed-041226a68e6b"/>
