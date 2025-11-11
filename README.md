@@ -47,8 +47,10 @@
   </section>
   <section>
     <style>
-    border: 27px solid #000;
-border-image:  27 repeat;
+      {
+ border: 27px solid #000;
+border-image: url(filename.jpg) 27 round;
+        }
       </style>
   </section>
 </html>
