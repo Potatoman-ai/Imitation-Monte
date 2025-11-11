@@ -43,6 +43,6 @@
   filter: hue-rotate(90deg);
   }
 </style>
-<img id="butterfly" width="400px" height="300px" alt="butterfly" scr="https://github.com/user-attachments/assets/4791bf55-3739-4ddd-bfed-041226a68e6b"/>
+<img id="butterfly" width="400px" height="300px" alt="butterfly" scr="https://github.com/user-attachments/assets/2210a098-34ab-49f7-bb95-ae0d11cc5f80"/>
   </section>
 </html>
