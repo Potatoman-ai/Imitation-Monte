@@ -30,6 +30,7 @@
   filter: sepia(100%);
   }
 </style>
-<div><img id="peguin" width="560" height="400" alt="peguin" src="https://github.com/user-attachments/assets/377609e6-7001-4449-a59c-cdb49de18751"/></div>
+<img id="peguin" width="560" height="400" alt="peguin" src="https://github.com/user-attachments/assets/377609e6-7001-4449-a59c-cdb49de18751"/>
   </section>
 </html>
+
