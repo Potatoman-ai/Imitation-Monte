@@ -23,7 +23,7 @@
   <section>
     <style>
   #penguin {
-    border-radius:50px 50px 50px 50px;
+    border-radius:200px;
     background-color: pink;
     height: 410px;
    -webkit-filter: sepia(100%);
