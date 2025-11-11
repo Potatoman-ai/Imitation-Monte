@@ -37,21 +37,12 @@
   <section>
  <style>
   #butterfly {
-    border-radius: 50px 0px 0px 50px;
+    border-radius: 75px 0px 75px 0px;
     height: 400px;
      -webkit-filter: hue-rotate(90deg);
   filter: hue-rotate(90deg);
   }
 </style>
-<img id="butterfly" width="400px" height="300px" alt="butterfly" src="https://github.com/user-attachments/assets/2210a098-34ab-49f7-bb95-ae0d11cc5f80"/>
+<img id="butterfly" width="560px" height="400px" alt="butterfly" src="https://github.com/user-attachments/assets/2210a098-34ab-49f7-bb95-ae0d11cc5f80"/>
   </section>
 </html>
-
-
-
-
-
-
-
-
-
