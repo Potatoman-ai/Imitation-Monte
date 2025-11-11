@@ -39,8 +39,8 @@
   #butterfly {
     border-radius: 75px 0px 75px 0px;
     height: 400px;
-     -webkit-filter: hue-rotate(75deg);
-  filter: hue-rotate(75deg);
+   -webkit-filter: invert(100%);
+  filter: invert(100%);
   }
 </style>
 <img id="butterfly" width="560px" height="400px" alt="butterfly" src="https://github.com/user-attachments/assets/2210a098-34ab-49f7-bb95-ae0d11cc5f80"/>
