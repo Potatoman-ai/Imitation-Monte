@@ -58,14 +58,32 @@ border-image: url("https://github.com/user-attachments/assets/7e69f835-4978-4ee3
 </style>
 <img id="tic" width="300px" height="150px" alt="tac" src="https://github.com/user-attachments/assets/c732ce94-f377-4b4d-b5b2-088b44ec823b"/>
   </section>
-  <sectio>
-    <style>
-      stage {
-  -webkit-filter: opacity(25%);
-  filter: opacity(25%);
-}
-      <img id="stage" width="400px" height="400" alt="stage"src="https://github.com/user-attachments/assets/776f0674-21b6-4f4a-a9af-940587b245c4"/>
+  <section>
+   <style>
+  section.origin-example div, {
+    height: 100px;
+    background-color: darkslategrey;
+    border: 10px solid black;
+    padding: 20px;
+    margin: 5px auto;
+    background-image: url(images/blue_seamless.jpg);
+    background-size: 300px;    
+  }
+  section div p {
+     font-weight: bold;
+     color: white;
+     font-size: 1.15em;
+     text-shadow: 2px 2px 3px black;
+  }
+</style>
+
+<section class="origin-example">
+  <div style="background-origin: border-box"><p>PRESENTING</p><</div>
+
+</section>
+
+ <div><img width="400px" height="400" alt="stage"src="https://github.com/user-attachments/assets/776f0674-21b6-4f4a-a9af-940587b245c4"/></div>
 
     </style>
-  </sectio>
+  </section>
 </html>
