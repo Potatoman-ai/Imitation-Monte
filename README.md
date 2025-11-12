@@ -49,8 +49,8 @@
 <style>
   #tic {
 border: 25px solid #000;
-border-image: url("https://github.com/user-attachments/assets/7e69f835-4978-4ee3-87bc-3f60f10493e0") 50 round;
+border-image: url("https://github.com/user-attachments/assets/7e69f835-4978-4ee3-87bc-3f60f10493e0") 10 round;
 </style>
-<img id="tic" width="300px" height="1500px" alt="tac" src="https://github.com/user-attachments/assets/c732ce94-f377-4b4d-b5b2-088b44ec823b"/>
+<img id="tic" width="300px" height="150px" alt="tac" src="https://github.com/user-attachments/assets/c732ce94-f377-4b4d-b5b2-088b44ec823b"/>
   </section>
 </html>
