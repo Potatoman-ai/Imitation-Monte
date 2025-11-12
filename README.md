@@ -46,11 +46,18 @@
 <img id="butterfly" width="560px" height="400px" alt="butterfly" src="https://github.com/user-attachments/assets/2210a098-34ab-49f7-bb95-ae0d11cc5f80"/>
   </section>
   <section>
-    <style>
-      {
- border: 27px solid #000;
-border-image: url(filename.jpg) 27 round;
-        }
-      </style>
+<style>
+  div {
+    background-image: url(foam-finger.png), url(raccoon.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 200px;
+    background-size: 100px auto, auto 200px;
+    background-position: 0px 0px, 50px 5px;
+    background-origin: content-box;
+  }
+</style>
+
+<div></div>
   </section>
 </html>
