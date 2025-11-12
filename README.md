@@ -66,7 +66,7 @@ border-image: url("https://github.com/user-attachments/assets/7e69f835-4978-4ee3
     border: 10px solid black;
     padding: 20px;
     margin: 5px auto;
-    background-image: url(images/blue_seamless.jpg);
+    background-image: url("https://github.com/user-attachments/assets/4f734d22-b1ef-40d8-a567-de049928e59c");
     background-size: 300px;    
   }
   section div p {
@@ -78,6 +78,6 @@ border-image: url("https://github.com/user-attachments/assets/7e69f835-4978-4ee3
 </style>
 
 <section class="origin-example">
-  <div style="background-origin: border-box"><p>PRESENTING</p> <img width="400px" height="400px" alt="stage" src="https://github.com/user-attachments/assets/4f734d22-b1ef-40d8-a567-de049928e59c"/></div>
+  <div style="background-origin: border-box"><p>PRESENTING</p></div>
 </section>
 </html>
