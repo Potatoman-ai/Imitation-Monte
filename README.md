@@ -58,4 +58,14 @@ border-image: url("https://github.com/user-attachments/assets/7e69f835-4978-4ee3
 </style>
 <img id="tic" width="300px" height="150px" alt="tac" src="https://github.com/user-attachments/assets/c732ce94-f377-4b4d-b5b2-088b44ec823b"/>
   </section>
+  <sectio>
+    <style>
+      stage {
+  -webkit-filter: opacity(25%);
+  filter: opacity(25%);
+}
+      <img id="stage" width="400px" height="400" alt="stage"src="https://github.com/user-attachments/assets/776f0674-21b6-4f4a-a9af-940587b245c4"/>
+
+    </style>
+  </sectio>
 </html>
