@@ -47,8 +47,8 @@
   </section>
   <section>
 <style>
-  div {
-    background-image: url(foam-finger.png), url(raccoon.png);
+  #ball {
+    background-image: "https://github.com/user-attachments/assets/37a0435b-4680-4b11-835a-a207793f9d5f.jpg", url(raccoon.png);
     background-repeat: no-repeat;
     width: 100%;
     height: 200px;
@@ -57,7 +57,6 @@
     background-origin: content-box;
   }
 </style>
-
-<div></div>
+<img id="ball" width="560px" height="400px" alt="ball" src="https://github.com/user-attachments/assets/37a0435b-4680-4b11-835a-a207793f9d5f"/>
   </section>
 </html>
