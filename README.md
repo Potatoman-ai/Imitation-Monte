@@ -1,5 +1,4 @@
 # Imitation-Monte
-<!DOCTYPE html>
 <html lang="en">
   <section>
   <style>
