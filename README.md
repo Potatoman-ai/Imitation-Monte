@@ -50,7 +50,7 @@
   #tic {
     border-image-source: url(https://github.com/user-attachments/assets/7e69f835-4978-4ee3-87bc-3f60f10493e0.png);
 border: 27px solid #000;
-border-image-slice: 127;
+border-image: url("https://github.com/user-attachments/assets/7e69f835-4978-4ee3-87bc-3f60f10493e0.png) 27 round;
 </style>
 <img id="tic" width="560px" height="400px" alt="tac" src="https://github.com/user-attachments/assets/7e69f835-4978-4ee3-87bc-3f60f10493e0"/>
   </section>
