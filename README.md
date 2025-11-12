@@ -82,7 +82,7 @@ border-image: url("https://github.com/user-attachments/assets/7e69f835-4978-4ee3
 
 </section>
 
- <div><img width="400px" height="400" alt="stage"src="https://github.com/user-attachments/assets/776f0674-21b6-4f4a-a9af-940587b245c4"/></div>
+ <div><img width="400px" height="400" alt="stage" src="https://github.com/user-attachments/assets/776f0674-21b6-4f4a-a9af-940587b245c4"/></div>
 
     </style>
   </section>
