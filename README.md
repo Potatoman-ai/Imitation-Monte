@@ -61,13 +61,12 @@ border-image: url("https://github.com/user-attachments/assets/7e69f835-4978-4ee3
   <section>
    <style>
   section.origin-example div, {
-    height: 100px;
-    background-color: darkslategrey;
+    height: 400px;
     border: 10px solid black;
     padding: 20px;
     margin: 5px auto;
     background-image: url("https://github.com/user-attachments/assets/4f734d22-b1ef-40d8-a567-de049928e59c");
-    background-size: 300px;    
+    background-size: 400px;    
   }
   section div p {
      font-weight: bold;
