@@ -58,26 +58,24 @@ border-image: url("https://github.com/user-attachments/assets/7e69f835-4978-4ee3
 </style>
 <img id="tic" width="300px" height="150px" alt="tac" src="https://github.com/user-attachments/assets/c732ce94-f377-4b4d-b5b2-088b44ec823b"/>
   </section>
-  <section>
-   <style>
-  section.origin-example div, 
-     {
-    height: 400px;
-    border: 0px solid black;
-    padding: 0px;
-    margin: 0px auto;
-    background-image: url("https://github.com/user-attachments/assets/4f734d22-b1ef-40d8-a567-de049928e59c");
-    background-size: 400px;    
-  }
-  section div p {
-     font-weight: bold;
-     color: white;
-     font-size: 1.15em;
-     text-shadow: 2px 2px 3px black;
-  }
+  <style>
+    section.origin-example div {
+        height: 400px;
+        padding: 0px;
+        margin: 0px auto;
+        background-image: url("https://github.com/user-attachments/assets/4f734d22-b1ef-40d8-a567-de049928e59c");
+        background-size: 400px;
+    }
+    
+    section div p {
+        font-weight: bold;
+        color: white;
+        font-size: 1.15em;
+        text-shadow: 2px 2px 3px black;
+    }
 </style>
 
 <section class="origin-example">
-  <div style="background-origin: border-box"><p>PRESENTING</p></div>
+    <div style="background-origin: border-box"><p>PRESENTING</p></div>
 </section>
 </html>
