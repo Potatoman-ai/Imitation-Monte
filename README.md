@@ -78,12 +78,6 @@ border-image: url("https://github.com/user-attachments/assets/7e69f835-4978-4ee3
 </style>
 
 <section class="origin-example">
-  <div style="background-origin: border-box"><p>PRESENTING</p><</div>
-
+  <div style="background-origin: border-box"><p>PRESENTING</p> <img width="400px" height="400px" alt="stage" src="https://github.com/user-attachments/assets/4f734d22-b1ef-40d8-a567-de049928e59c"/></div>
 </section>
-
- <div><img width="400px" height="400" alt="stage" src="https://github.com/user-attachments/assets/776f0674-21b6-4f4a-a9af-940587b245c4"/></div>
-
-    </style>
-  </section>
 </html>
