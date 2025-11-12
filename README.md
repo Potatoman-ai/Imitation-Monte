@@ -60,7 +60,7 @@ border-image: url("https://github.com/user-attachments/assets/7e69f835-4978-4ee3
   </section>
   <style>
     section.origin-example div {
-        height: 400px;
+        height: 300px;
         width: 400px;
         padding: 75px;
         margin: 50px auto;
