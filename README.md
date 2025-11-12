@@ -49,7 +49,7 @@
 <style>
   #tic {
 border: 25px solid #000;
-border-image: url("https://github.com/user-attachments/assets/7e69f835-4978-4ee3-87bc-3f60f10493e0") 12 round;
+border-image: url("https://github.com/user-attachments/assets/7e69f835-4978-4ee3-87bc-3f60f10493e0") 50 round;
 </style>
 <img id="tic" width="560px" height="400px" alt="tac" src="https://github.com/user-attachments/assets/c732ce94-f377-4b4d-b5b2-088b44ec823b"/>
   </section>
