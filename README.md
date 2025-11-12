@@ -6,8 +6,6 @@
 #dino {
   -webkit-filter: hue-rotate(90deg);
   filter: hue-rotate(90deg);
-  -webkit-filter: drop-shadow(-5px -5px 5px #000000);
-  filter: drop-shadow(-5px -5px 5px #000000);
 }
 </style>
   <img id="dino" width="455" height="482" alt="dinosaur" src="https://github.com/user-attachments/assets/29e229d1-f416-4624-a940-7da1eafd6edb"/>
@@ -18,8 +16,8 @@
     height: 396px;
     background-image: linear-gradient(-45deg, white, lightblue, blue);
     background-color: navy;
-    -webkit-filter: drop-shadow(-5px -5px 5px #000000);
-  filter: drop-shadow(-5px -5px 5px #000000);
+    -webkit-filter: drop-shadow(5px 5px 5px #000000);
+  filter: drop-shadow(5px 5px 5px #000000);
   }
 </style>
   <img id="segull" width="560" height="396" alt="seagull" src="https://github.com/user-attachments/assets/dbeb73a5-1598-4f7c-b814-d03b91b41ae4"/>
