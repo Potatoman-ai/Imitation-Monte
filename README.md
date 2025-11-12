@@ -47,16 +47,13 @@
   </section>
   <section>
 <style>
-  #ball {
-    background-image: "https://github.com/user-attachments/assets/37a0435b-4680-4b11-835a-a207793f9d5f.jpg", url(raccoon.png);
-    background-repeat: no-repeat;
-    width: 100%;
-    height: 200px;
-    background-size: 100px auto, auto 200px;
-    background-position: 0px 0px, 50px 5px;
-    background-origin: content-box;
-  }
+  #tic {
+    border-image-source: url(.jpg);
+border: 27px solid #000;
+border-image-slice: 27;
 </style>
-<img id="ball" width="560px" height="400px" alt="ball" src="https://github.com/user-attachments/assets/37a0435b-4680-4b11-835a-a207793f9d5f"/>
+<img id="tic" width="560px" height="400px" alt="tac" src="https://github.com/user-attachments/assets/37a0435b-4680-4b11-835a-a207793f9d5f"/>
   </section>
 </html>
+
+
