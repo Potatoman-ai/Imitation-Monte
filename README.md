@@ -60,12 +60,12 @@ border-image: url("https://github.com/user-attachments/assets/7e69f835-4978-4ee3
   </section>
   <style>
     section.origin-example div {
-        height: 300px;
-        width: 400px;
+        height: 100px;
+        width: 100px;
         padding: 50px;
         margin: 50px auto;
         background-image: url("https://github.com/user-attachments/assets/4f734d22-b1ef-40d8-a567-de049928e59c");
-        background-size: 400px;
+        background-size: 100px;
     }
     
     section div p {
